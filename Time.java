@@ -24,7 +24,7 @@ public class Time
     public static void main ()
     {
         Time obj = new Time ();
-        obj.accept (3,45,27);
+        obj.accept (3,45,57);
         obj.convert ();
         obj.showResult ();
     }
