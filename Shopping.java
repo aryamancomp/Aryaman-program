@@ -25,8 +25,8 @@ public class Shopping
                  Discount = 2000;
              
              NetAmount = PurchaseAmount - Discount;
-             System.out.println ("The Purchase Amount is " +PurchaseAmount);
-             System.out.println ("The Discount Amount is " +Discount);
+             System.out.println ("The Purchase Amount is: " +PurchaseAmount);
+             System.out.println ("The Discount Amount is: " +Discount);
              
              if (PurchaseAmount > 20000)
              {
