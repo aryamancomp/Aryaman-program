@@ -1,4 +1,4 @@
-public class date //Program to demonstrate constructor overloading
+ class date //Program to demonstrate constructor overloading
 {
     int dd, mm, yy; //Instance variable
 
