@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ShipmentCharges
+public class ShipmentCharges
 {
     int units, bill;
     double discount, cost;
